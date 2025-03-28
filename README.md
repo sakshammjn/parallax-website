@@ -1,3 +1,3 @@
 # ParallaxWebsite
- Alexa translate "mon premier site internet" to English
+ the start of my web development journey
 
